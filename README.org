@@ -1,0 +1,2 @@
+scnRCA is an algorithm for estimating the codon usage optimization
+profile of a bacterial genome.
